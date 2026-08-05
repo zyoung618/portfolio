@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+
+}
+
+h1 {
+    color: hotpink;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 50vh;
+}
+
+#bio {
+    text-align: center;
+}
